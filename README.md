@@ -39,8 +39,8 @@ Abbiamo utilizzato:
    https://help.risevision.com/hc/en-us/articles/115002245846-Generate-an-API-Key-for-the-Google-Spreadsheet-Widget) 
    questo foglio google da cui Node-Red può avere finalmente accesso, tramite i flussi condivisi in precedenza, caricherà 
    in un database questi dati, riempiendo delle tabelle per l'archiviazione. 
-   Ogni persona registrata avrà una scheda magnetica, che utilizzerà per avere l'accesso ai macchinari 
-   dichiarando data, ora e macchinario utilizzato.
+   Ogni persona registrata avrà una scheda magnetica, che grazie alla dashboard generata dal flow "link precompilato", rimanderà
+   ad un link appunto precompilato che ci mostrerà le macchine per le quali siamo abilitati.
    ## NODE-RED
    ![5](/IMAGES/5.jpg)
    ## DATABASE
