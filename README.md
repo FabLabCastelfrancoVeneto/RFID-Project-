@@ -26,5 +26,5 @@ Abbiamo utilizzato:
 ## **SOFTWARE:**
 
 * **Node-RED** è un software open source per programmare online contemporaneamente ad altre persone sullo stesso hardware creando dei &quot;flow&quot; a blocchi sfruttando principalmente Javascript, MQTT e JSON.
-
+![4](/IMAGES/4.jpg)
       
