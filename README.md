@@ -4,7 +4,9 @@ Abbiamo utilizzato:
     
       **Scheda RaspberryPi**
       **Scheda Arduino Leonardo con:**
-      -Lettore RFID-RC522 ![3](/IMAGES/3.jpg)
+      -Lettore RFID-RC522 
+     
+![3](/IMAGES/3.jpg)
     
 
 
