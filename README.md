@@ -41,6 +41,7 @@ Abbiamo utilizzato:
    in un database questi dati, riempiendo delle tabelle per l'archiviazione. 
    Ogni persona registrata avrà una scheda magnetica, che utilizzerà per avere l'accesso ai macchinari 
    dichiarando data, ora e macchinario utilizzato.
+   ![5](/IMAGES/5.jpg)
 
 
 
