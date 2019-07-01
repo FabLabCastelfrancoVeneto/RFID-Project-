@@ -41,7 +41,10 @@ Abbiamo utilizzato:
    in un database questi dati, riempiendo delle tabelle per l'archiviazione. 
    Ogni persona registrata avrà una scheda magnetica, che utilizzerà per avere l'accesso ai macchinari 
    dichiarando data, ora e macchinario utilizzato.
+   ## NODE-RED
    ![5](/IMAGES/5.jpg)
+   ## DATABASE
+   ![6](/IMAGES/6.jpg)
 
 
 
